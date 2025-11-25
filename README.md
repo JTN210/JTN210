@@ -33,10 +33,10 @@
 
 
 ## 🌐 Connect with me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://jtn210.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0D1117.svg?style=for-the-badge&logo=linkedin&logoColor=F2B9AA)](https://www.linkedin.com/in/jo%C3%A3o-neiva-7392a2269/)
-[![Instagram](https://img.shields.io/badge/@joaoneiva_-0D1117.svg?style=for-the-badge&logo=Instagram&logoColor=F2B9AA)](https://www.instagram.com/joaoneiva_/)
-[![Gmail](https://img.shields.io/badge/email-0D1117.svg?style=for-the-badge&logo=gmail&logoColor=F2B9AA)](mailto:joaoneiva27@gmail.com)
+
+
 
 #### Feel free to reach out or connect!
 

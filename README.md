@@ -42,5 +42,4 @@
 
 
 # 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api?username=JTN210&show_icons=true&theme=radical&hide_title=true)
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JTN210&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JTN210&layout=compact&theme=tokyonight)

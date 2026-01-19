@@ -22,7 +22,7 @@
 
 ## 💼 Roles & Activities
 #### - Secretary of NECC (Núcleo de Estudantes de Ciências da Computação) at Universidade do Minho 2024/2025
-#### - Treasurer of NECC(Núcleo de Estudantes de Ciências da Computação) at Universidade do Minho  2025/2026
+#### - Treasurer of NECC (Núcleo de Estudantes de Ciências da Computação) at Universidade do Minho 2025/2026
 
 ## 🥋🏐 Sports Career
 

@@ -28,7 +28,7 @@
 
 #### - 6x National Karate Champion
 #### - Member of the Portuguese National Karate Team
-#### - Currently taking a course to become a certified karate instructor
+#### - Certified Karate Instructor
 #### - Having a passion with volleyball, just playing for fun 
 
 

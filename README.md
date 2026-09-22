@@ -1,6 +1,6 @@
 # Hi there, I'm João Neiva 👋
 
-#### 🎓 I'm in my 3rd and final year of a Computer Science degree at Universidade do Minho, Portugal.
+#### 🎓 Bachelor’s degree in Computer Science @ University of Minho, Portugal.
 
 ## 🛠️ Skills & Tools
 <p>
@@ -21,8 +21,8 @@
 #### You can check my [University](https://github.com/JTN210/Universidade) repository to see all the things that I've done throughout these years at the university.
 
 ## 💼 Roles & Activities
-#### - Secretary of NECC (Núcleo de Estudantes de Ciências da Computação) at Universidade do Minho 2024/2025
-#### - Treasurer of NECC (Núcleo de Estudantes de Ciências da Computação) at Universidade do Minho 2025/2026
+#### - Secretary of NECC (Núcleo de Estudantes de Ciências da Computação) @ Universidade do Minho 2024/2025
+#### - Treasurer of NECC (Núcleo de Estudantes de Ciências da Computação) @ Universidade do Minho 2025/2026
 
 ## 🥋🏐 Sports Career
 

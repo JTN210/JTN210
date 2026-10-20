@@ -21,8 +21,10 @@
 #### You can check my [University](https://github.com/JTN210/Universidade) repository to see all the things that I've done throughout these years at the university.
 
 ## 💼 Roles & Activities
-#### - Secretary of NECC (Núcleo de Estudantes de Ciências da Computação) @ Universidade do Minho 2024/2025
+#### - President of NECC (Núcleo de Estudantes de Ciências da Computação) @ Universidade do Minho 2026/2027
 #### - Treasurer of NECC (Núcleo de Estudantes de Ciências da Computação) @ Universidade do Minho 2025/2026
+#### - Secretary of NECC (Núcleo de Estudantes de Ciências da Computação) @ Universidade do Minho 2024/2025
+
 
 ## 🥋🏐 Sports Career
 
